@@ -1,11 +1,12 @@
+# Magz News
 - User account:
-+ Username: phamthetoan
-+ Password: toandone123
+  + Username: phamthetoan
+  + Password: toandone123
 
 - Creator account:
-+ Username: creator
-+ Password: abcd1234
+  + Username: creator
+  + Password: abcd1234
 
 - Admin account:
-+ Username: admin
-+ Password: abcd1234
+  + Username: admin
+  + Password: abcd1234
